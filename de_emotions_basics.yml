@@ -1,0 +1,56 @@
+---
+id: 
+label: de_emotions_basics
+language: de
+status: archived
+title: "Gefühle: Die Grundlagen"
+details: In diesem Kurs erfährst du, was Gefühle mit deinen Bedürfnissen zu tun haben, welche Rolle Gedanken, Körper und Verhalten spielen, was zu einer gesunden Emotionsregulation gehört und wie sich emotionale Kompetenz entwickelt. Damit schaffst du eine Grundlage, um deine Gefühle zu deinen Komplizen zu machen.
+free: false
+color: "#89B5D2"
+image: emotions_basics
+landscape_image: emotions_basics_landscape
+sections:
+- title: Was sind Gefühle und wozu sind sie gut?
+  exercises:
+  - de_emotions_basics_ch1_1
+  - de_emotions_basics_ch1_2
+  - de_emotions_basics_ch1_3
+  - de_emotions_basics_ch1_4
+  - de_emotions_basics_ch1_5
+  - de_emotions_basics_ch1_6
+  - de_emotions_basics_ch1_7
+- title: Gefühle stellen sich vor
+  exercises:
+  - de_emotions_basics_ch2_1
+  - de_emotions_basics_ch2_2
+  - de_emotions_basics_ch2_3
+  - de_emotions_basics_ch2_4
+  - de_emotions_basics_ch2_5
+  - de_emotions_basics_ch2_6
+  - de_emotions_basics_ch2_7
+  - de_emotions_basics_ch2_8
+  - de_emotions_basics_ch2_9
+  - de_emotions_basics_ch2_10
+  - de_emotions_basics_ch2_11
+  - de_emotions_basics_ch2_12
+- title: Gefühle, Gedanken, Körper und Verhalten
+  exercises:
+  - de_emotions_basics_ch3_1
+  - de_emotions_basics_ch3_2
+  - de_emotions_basics_ch3_3
+- title: Emotionsregulation
+  exercises:
+  - de_emotions_basics_ch4_1
+  - de_emotions_basics_ch4_2
+  - de_emotions_basics_ch4_3
+  - de_emotions_basics_ch4_4
+- title: Wie entwickelt sich emotionale Kompetenz?
+  exercises:
+  - de_emotions_basics_ch5_1
+  - de_emotions_basics_ch5_2
+  - de_emotions_basics_ch5_3
+  - de_emotions_basics_ch5_4
+  - de_emotions_basics_ch5_5
+- title: Zusammenfassung
+  exercises:
+  - de_emotions_basics_ch6_1
